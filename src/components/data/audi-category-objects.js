@@ -34,7 +34,7 @@ export const FirstPartOfAudi = [
         alt: 'Audi R8 V10 Performance',
         brand: 'Audi',
         carName: 'R8 V10 Performance',
-        driveTrain: 'RWD',
+        driveTrain: 'AWD',
         engineType: 'V10 engine',
         fuelSystem: 'Gasoline',
         maximumHorsePower: '620 HP @ 8000 RPM',
